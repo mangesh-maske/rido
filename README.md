@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Rido - Cab Fare Predictor App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Web app that let you select pickup and destination location from places suggestions and provide different ride options based on distance, time of day and vehical type. Also highlight selected route on google map.
+
+App URL: [rido.netlify.app](https://rido.netlify.app/).
 
 ## Available Scripts
 
