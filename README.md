@@ -1,6 +1,6 @@
 # Rido - Cab Fare Predictor App
 
-Web app that let you select pickup and destination location from places suggestions and provide different ride options based on distance, time of day and vehical type. Also highlight selected route on google map.
+Web app that let you select pickup and destination location from places suggestions and provide different ride options based on distance, time of day and vehicle type and highlight selected route on google map.
 
 App URL: [rido.netlify.app](https://rido.netlify.app/).
 
